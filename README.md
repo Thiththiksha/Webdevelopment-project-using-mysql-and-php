@@ -8,6 +8,7 @@
 -->MYSQL
 -->AJAX
 -->JQUERY
+-->BOOTSTRAP
 
 #The project contains
 -->Sign Up page
